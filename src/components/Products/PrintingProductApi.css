@@ -1,0 +1,30 @@
+.ProductHeading p{
+    font-weight: 600;
+    color: #000;
+    font-size: 18px;
+}
+
+.ProductViewAll a{
+    color: #000;
+    font-weight: 600;
+color: #000;
+font-size: 14px;
+text-decoration: none;
+}
+
+.productListing{
+    background-color: white;
+    border-radius: 2px;
+    border: 1px solid #DBDBDB;
+    height: 70vh;
+}
+.AddtoCartBtn button{
+    width: 100%;
+    background-color: white;
+    outline: 2px solid #65C2ED;
+    border: 2px solid #F1ADFF;
+    border-radius: 2px;
+}
+.ProductImage{
+    height: 30vh;
+}

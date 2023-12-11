@@ -1,0 +1,23 @@
+.menuBarWrapper {
+    background: linear-gradient(to top, rgba(255, 255, 255, 0), #f0f0f0);
+
+}
+
+.menuBarWrapper div ul li {
+    list-style: none;
+    display: flex;
+    padding: 1rem 1.5rem;
+    color: #100F1A;
+    font-weight: 500;
+    line-height: 21.78px;
+    font-size: 18px;
+
+    display: flex;
+    align-items: center;
+}
+
+.menuBarWrapper div ul {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}

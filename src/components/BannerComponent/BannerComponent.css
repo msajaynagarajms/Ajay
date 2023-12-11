@@ -1,0 +1,24 @@
+.BannerComponentWrapper{
+   
+    padding-top: 15vh;
+    padding-bottom: 10vh;
+}
+
+.BuyNowButton button{
+    background: linear-gradient(to right, #65C2ED, #F1ADFF); /* Adjust the colors as needed */
+      color: white;
+      padding: 10px 20px;
+      font-size: 16px;
+      border: none;
+      outline: none;
+      border-radius: 5px;
+      cursor: pointer;
+      width: 12rem;
+}
+
+.BannerComponentWrapper h1{
+text-transform:uppercase;   
+font-weight: 700;
+font-size: 60px;
+line-height: 104.08px;
+}

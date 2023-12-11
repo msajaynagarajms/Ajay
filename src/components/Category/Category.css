@@ -1,0 +1,27 @@
+.CategoryHeading p{
+font-weight: 600;
+color: #000;
+font-size: 18px;
+
+}
+.CategoryViewAll a{
+    color: #000;
+    font-weight: 600;
+color: #000;
+font-size: 14px;
+text-decoration: none;
+    
+}
+.vitamine{
+    background-color: #EBF8E6;
+    
+}
+.Medicine{
+background-color: #FFE8ED;
+}
+.Health{
+    background-color: #E5EDFA;
+}
+.fishoil{
+    background-color: #FFEFB6;
+}
