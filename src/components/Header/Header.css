@@ -3,10 +3,18 @@
     width: 100%;
     height: 7vh;
 }
+
+
 .SearchBarWrapper input{
     border: none;
     outline: none;
     color: #4E4C56;
+}
+
+.SearchBarWrapper label{
+    color: #A1A1A1;
+    padding: 0.5rem;
+
 }
 
 .SearchBarWrapper label{
